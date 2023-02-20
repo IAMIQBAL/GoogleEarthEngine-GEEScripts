@@ -4,7 +4,7 @@
 // 1993: Blue
 
 // Enter ROI [West, South, East, North]
-var ROI = [59.545898,23.155933,79.541016,37.439499];
+var ROI = [];
 
 // More coverages https://www.ncei.noaa.gov/products/dmsp-operational-linescan-system
 var yearR = 'F182013'
